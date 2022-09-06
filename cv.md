@@ -17,6 +17,7 @@ My name is Ilya, I am 25 years old, I live in Belarus in the city of Brest. I am
 
 * HTML;
 * CSS;
+* SCSS
 * JavaScript - (Basic).
 
 ## Education:
